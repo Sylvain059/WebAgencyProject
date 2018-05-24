@@ -1,0 +1,39 @@
+body {
+  background: url("../img/bg.jpeg") no-repeat fixed center;
+  margin: 0;
+  padding: 0; }
+
+header {
+  background-color: #f8f8ff;
+  font-family: helvetica;
+  height: 150px;
+  width: 100%; }
+  header nav {
+    position: relative; }
+    header nav h1 {
+      display: inline-block;
+      color: darkslategrey;
+      height: 100%;
+      line-height: 150px; }
+    header nav ul {
+      display: inline-block;
+      position: absolute;
+      right: 0;
+      top: 50px; }
+      header nav ul li {
+        display: inline-block;
+        list-style-type: none;
+        color: darkslategrey;
+        border-right: 1px solid darkslategrey;
+        margin: 10px;
+        padding-right: 15px; }
+        header nav ul li a {
+          color: darkslategrey;
+          text-decoration: none; }
+        header nav ul li a:hover {
+          color: #000;
+          text-decoration: none; }
+      header nav ul .phone {
+        border: none; }
+
+/*# sourceMappingURL=main.css.map */

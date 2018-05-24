@@ -1,0 +1,10 @@
+[default]
+name=Default
+runtime=host
+config-opts=
+run-opts=
+prefix=/home/sylvain059/.cache/gnome-builder/install/asset/host
+app-id=
+postbuild=
+prebuild=
+default=true
